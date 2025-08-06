@@ -28,12 +28,12 @@ NumPy (for efficient board logic)
 ▶️ How to Run
 Clone the repository:
 
-git clone https://github.com/your-username/tic-tac-toe-pygame.git
-cd tic-tac-toe-pygame
+<a href="#"> clone https://github.com/your-username/tic-tac-toe-pygame.git
+cd tic-tac-toe-pygame</a>
 
 Install dependencies:
 
-pip install pygame numpy
+<a href="#">pip install pygame numpy</a>
 
 Run the game:
 
